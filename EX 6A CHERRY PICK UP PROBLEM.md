@@ -26,8 +26,8 @@ When passing through a path cell containing a cherry, you pick it up, and the ce
 ```
 /*
 To implement the program for Cherry pickup problem.
-Developed by: Gokul J
-Register Number: 212222230038 
+Developed by: Gokularamanan K
+RegisterNumber: 212222230040
 */
 ```
 ```
