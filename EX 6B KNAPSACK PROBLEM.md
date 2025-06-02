@@ -17,8 +17,8 @@ To demonstrate a python program using dynamic programming for 0/1 knapsack probl
 ```
 /*
 To implement the program for 0/1 knapsack problem.
-Developed by: Gokularamanan K
-RegisterNumber: 212222230040
+Developed by: sriram s
+RegisterNumber: 212222240105
 */
 ```
 
